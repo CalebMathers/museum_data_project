@@ -1,4 +1,5 @@
-"""File for the consumption of a Kafka data stream"""
+"""File for the consumption of a Kafka data stream and uploading the data
+to a connected database."""
 
 from os import environ as ENV
 import json
