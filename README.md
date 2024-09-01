@@ -16,6 +16,8 @@ The project is finished, however the Kafka stream that was initially used is no 
 
 ## Usage instructions
 
+- Before you start, download all the project files.
+
 ### Setting up the database
 
 #### To host on an RDS
