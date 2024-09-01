@@ -1,0 +1,1 @@
+required - python, pip, postgresql
